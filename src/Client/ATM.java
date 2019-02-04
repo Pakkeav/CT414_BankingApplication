@@ -4,10 +4,13 @@ import java.io.*;
 import java.rmi.registry.*;
 
 import Interface.BankInterface;
-import Server.Bank;
-import Server.Account;
 
 public class ATM {
+	
+		// get user�s input, and perform the operations
+
+		//This is a test
+
 	
 	static long sessID;
 
