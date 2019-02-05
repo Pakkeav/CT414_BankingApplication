@@ -1,10 +1,10 @@
-package Server;
+package interfaces;
 
 import java.io.Serializable;
 import java.util.Date;
 import java.util.List;
 
-public interface statementInterface extends Serializable {
+public interface StatementInterface extends Serializable {
 
 public int getAccountnum();  // returns account number associated with this statement
 
